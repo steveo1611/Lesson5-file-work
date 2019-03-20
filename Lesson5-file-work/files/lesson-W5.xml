@@ -1,0 +1,41 @@
+{
+"results":
+	[
+		{
+		"localDeviceId":1,
+		"localCredentials":false,
+		"hostName": "HP2C48E6",
+		"ipAddress": "15.13.148.77",
+		"modelName": "OFFICEJET PRO 8600 N911G",
+		"serialNumber": "CN140CM07505KD",
+		"ocvStatus": "NotSupported"
+		},
+		{
+		"localDeviceId":3,
+		"localCredentials": false,
+		"hostName": "HPA3468C",
+		"ipAddress": "15.13.147.230",
+		"modelName": "OFFICEJET PRO 8600 N911N",
+		"serialNumber": "CN0AP1N05605KD",
+		"ocvStatus": "BadCartridge"
+		},
+		{
+		"localDeviceId":5,
+		"localCredentials": false,
+		"hostName": "HP2D0DB0.FPE.boi.rd.hpicorp.net",
+		"ipAddress": "15.13.147.245",
+		"modelName": "OFFICEJET PRO 8100 N811A",
+		"serialNumber": "CN0AC1L52705MX",
+		"ocvStatus": "GenuineHP"
+		},
+		{
+		"localDeviceId":6,
+		"localCredentials": false,
+		"hostName": "HP2C2807",
+		"ipAddress": "15.13.146.203",
+		"modelName": "OFFICEJET PRO 8100 N811A",
+		"serialNumber": "CN14BTT19105MX",
+		"ocvStatus": "NotAttempt"
+		}
+	]
+}
